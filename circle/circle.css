@@ -1,0 +1,14 @@
+.circle{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 100%;
+  
+    background-color: rgb(238, 0, 255);
+    width: 200px;
+    height: 200px;
+}
+
+.actives{
+    background-color: #2a7982;
+}   
